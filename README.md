@@ -1,6 +1,6 @@
 Olá ✌
 
-- 🔨 Atuando como Analista de Suporte
+- 🔨 Atuando como Desenvolvedor Jr
 - 👨‍💻 Cursando Banco de Dados 
 - 👨‍🎓 Formado em Analise e Desenvolvimento de sistemas
 - ☁️ Especializando em Tecnologia Cloud
