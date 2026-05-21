@@ -1,35 +1,59 @@
-Olá ✌
+# Henrique Lopes
 
-- 🔨 Atuando como Desenvolvedor Jr
-- 👨‍💻 Cursando Banco de Dados 
-- 👨‍🎓 Formado em Analise e Desenvolvimento de sistemas
-- ☁️ Especializando em Tecnologia Cloud
+**Backend Developer** especializado em **Laravel**, **Python** e automações corporativas.
 
+Foco em APIs de alta performance, integrações empresariais e automação de processos — entregando ganho operacional real para empresas.
 
-<div align="center">
-  <a href="https://github.com/henrique-lopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique-lopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-lopes&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="henrique-Oracle" height="50" width="50" <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
-  <img align="center" alt="henrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="henrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="henrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="henrique-SQLSERVER" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
- 
-</div>
-  
-  
-  
-  ##
-  
-  <div>  
-  <a href = "mailto:henrique-lopes@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henrique-lopes-802492190/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-   ##
-    
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+---
+
+## Stack
+
+**Backend**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+**Automação**
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+
+**Admin & Frontend**
+![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=flat&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat&logo=livewire&logoColor=white)
+
+**Banco de Dados**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Infra**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## O que construo
+
+- **APIs escaláveis** — autenticação OAuth2, Sanctum, Passport, filas assíncronas (Horizon)
+- **Automações corporativas** — scripts Python que eliminam trabalho manual, 24/7
+- **Integrações empresariais** — ERPs, bancos, marketplaces, sistemas legados
+- **Dashboards administrativos** — Filament e Livewire com controle de permissões
+- **SaaS multi-tenant** — arquitetura isolada por cliente
+
+---
+
+## Projetos em destaque
+
+### GertLex — SaaS Jurídico
+Plataforma multi-tenant para escritórios de advocacia com importação automática de processos via API DataJud, RPA e PDF parsing.
+`Laravel 13` `Inertia.js` `Multi-tenancy` `Playwright`
+
+### Motor Envio — Sistema de E-mail Corporativo
+Sistema de disparo massivo de e-mails em produção para 300+ usuários, com editor de templates, gestão de carteiras e campanhas.
+`Laravel 12` `Livewire 3` `Horizon` `OAuth2`
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-lopes-802492190)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:henrique-lopes@outlook.com.br)
